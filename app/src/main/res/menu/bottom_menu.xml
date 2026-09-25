@@ -1,4 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <item
+        android:id="@+id/bottom_home"
+        android:title="Home"
+        android:icon="@drawable/ichome" />
+
+    <item
+        android:id="@+id/bottom_cart"
+        android:title="Carrinho"
+        android:icon="@drawable/iccarrinho" />
+
+    <!-- Espaço vazio no meio para o botão flutuante (FAB) -->
+    <item
+        android:title=""
+        android:enabled="false" />
+
+    <item
+        android:id="@+id/bottom_profile"
+        android:title="Perfil"
+        android:icon="@drawable/icuser" />
+
+    <item
+        android:id="@+id/bottom_menu"
+        android:title="Mais"
+        android:icon="@drawable/icmenu" />
+
 </menu>

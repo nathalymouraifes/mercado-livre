@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">Mercado Livre</string>
-    <string name="nav_open">Abrindo menu</string>
-    <string name="nave_close">Fechando menu</string>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="nav_open">Abrir</string>
+    <string name="nav_close">Fechar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
